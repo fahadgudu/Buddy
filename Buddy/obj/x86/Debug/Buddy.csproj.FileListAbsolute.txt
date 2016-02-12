@@ -1,0 +1,4 @@
+C:\Users\arsla\Documents\Visual Studio 2010\Projects\Buddy\Buddy\bin\Debug\Buddy.exe
+C:\Users\arsla\Documents\Visual Studio 2010\Projects\Buddy\Buddy\bin\Debug\Buddy.pdb
+C:\Users\arsla\Documents\Visual Studio 2010\Projects\Buddy\Buddy\obj\x86\Debug\Buddy.exe
+C:\Users\arsla\Documents\Visual Studio 2010\Projects\Buddy\Buddy\obj\x86\Debug\Buddy.pdb

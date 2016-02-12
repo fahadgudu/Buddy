@@ -1,0 +1,5 @@
+/Users/Fahad/Desktop/Buddy/Buddy/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/Fahad/Desktop/Buddy/Buddy/bin/Debug/Buddy.exe.mdb
+/Users/Fahad/Desktop/Buddy/Buddy/bin/Debug/Buddy.exe
+/Users/Fahad/Desktop/Buddy/Buddy/obj/x86/Debug/Buddy.exe
+/Users/Fahad/Desktop/Buddy/Buddy/obj/x86/Debug/Buddy.exe.mdb
